@@ -21,3 +21,6 @@ When you finish the task, please paste your link to the Excel [sheet](https://un
 
 More information on GitHub Pages can be found [here](https://pages.github.com/)
 ![](Actuarial.gif)
+
+## Risk Management
+Significant quantitative and qualitative risks that may arise from the implementation of the health incentive program for SuperLife were identified and assessed. For each risk, ratings of the magnitude of impact and the possibility of occurrence are provided in Figure 4. to the right, alongside relevant mitigation strategies deduced to address these risks, outlined in Figure 5. below.
