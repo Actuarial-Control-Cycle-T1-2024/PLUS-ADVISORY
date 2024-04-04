@@ -1,5 +1,5 @@
 # Actuarial Theory and Practice B @ UNSW
-WHATS DOIN
+WHATS DOIN :DDD
 _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benjamin Franklin_
 
 ---
