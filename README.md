@@ -1,4 +1,4 @@
-# CC2024
+# PLUS ADVISORY
 
 _"Insert Quote" - Benjamin Franklin_
 
@@ -14,6 +14,12 @@ When you finish the task, please paste your link to the Excel [sheet](https://un
 
 More information on GitHub Pages can be found [here](https://pages.github.com/)
 ![](Actuarial.gif)
+
+## Executive Summary
+This report presents Plus Advisory’s proposed ‘wellness plan’ with detailed examination into the program design, modelling and evaluation process. These investigations were commissioned by SuperLife Chief Actuary Jes B. Zane to address several strategic social, financial and growth objectives for SuperLife’s long-term life insurance products. Included below is a comprehensive review of the health program design process, assumptions setting procedure, pricing-model construction methodology and forecasted economic benefits until 2044. To assess and support the long-term financial viability and profitability of the health program, sensitivity analyses and risk evaluations were also conducted. In recommending implementation of the health plan, there are further discussions of other considerations such as using gender-based pricing and devised marketing plans across Lumaria.
+
+
+
 
 ## Risk Management
 Significant quantitative and qualitative risks that may arise from the implementation of the health incentive program for SuperLife were identified and assessed. For each risk, ratings of the magnitude of impact and the possibility of occurrence are provided in Figure 4. to the right, alongside relevant mitigation strategies deduced to address these risks, outlined in the table below.
