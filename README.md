@@ -6,14 +6,10 @@ _"Insert Quote" - Benjamin Franklin_
 >
 * Click [link](https://classroom.github.com/a/biNKOeX_) to accept your group assignment.
 
-#### Follow the [guide doc](doc1.pdf) to submit your work. 
-
 When you finish the task, please paste your link to the Excel [sheet](https://unsw-my.sharepoint.com/:x:/g/personal/z5096423_ad_unsw_edu_au/ETIxmQ6pESRHoHPt-PUleR4BuN0_ghByf7TsfSfgDaBhVg?rtime=GAd2OFNM3Eg) for Peer Feedback
 ---
 >Be creative! Feel free to link to embed your [data](2024-srcsc-superlife-inforce-dataset-part1.csv), [code](sample-data-clean.ipynb), [image](unsw.png) here
 
-More information on GitHub Pages can be found [here](https://pages.github.com/)
-![](Actuarial.gif)
 
 ## Problem Statement
 SuperLife, a prominent life insurance carrier in the country of Lumaria, is exploring the development of a health incentive program to complement its long-term life insurance products. Through the health program, Superlife seeks to incentivize healthy lifestyle behaviours and thereby decrease policyholder mortality rates, and boost sales volumes via enhanced marketability and industry competitivenes to ultimately yield economic benefits for the company. Plus Advisory has been engaged as an external consultancy to propose an innovative solution.
