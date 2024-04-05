@@ -23,4 +23,7 @@ Significant quantitative and qualitative risks that may arise from the implement
 ![Risk Mitigation Table](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/165151626/da702bff-bef0-4948-8343-3d48b846892a)
 
 ### Sensitivity Analysis
-Sensitivity analysis was conducted to assess the materiality of the financial impacts from favourable and unfavourable scenarios based on our key assumptions
+Sensitivity analysis was conducted to assess the materiality of the financial impacts from favourable and unfavourable scenarios based on our key assumptions. The table below details the different scenarios investigated, the recommended range that our health plan will remain financially viable within and any insights gathered during the analysis.
+
+> Sensitivity Testing - Scenarios, Impacts and Insights
+
