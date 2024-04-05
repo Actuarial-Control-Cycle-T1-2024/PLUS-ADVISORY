@@ -27,7 +27,7 @@ This showcase presents Plus Advisory’s proposed ‘wellness plan’ with detai
 ## Assumptions
 
 ## Risk Management
-Significant quantitative and qualitative risks that may arise from the implementation of the health incentive program for SuperLife were identified and assessed. For each risk, ratings of the magnitude of impact and the possibility of occurrence are provided in Figure 4. to the right, alongside relevant mitigation strategies deduced to address these risks, outlined in the table below.
+Significant quantitative and qualitative risks that may arise from the implementation of the health incentive program for SuperLife were identified and assessed. For each risk, ratings of the magnitude of impact and the possibility of occurrence are provided in [image](Likelihood.png), alongside relevant mitigation strategies deduced to address these risks, outlined in the table below.
 
 > Risks and Mitigation Strategies
 
