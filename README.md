@@ -19,9 +19,11 @@ More information on GitHub Pages can be found [here](https://pages.github.com/)
 This showcase presents Plus Advisory’s proposed ‘wellness plan’ with detailed examination into the program design, modelling and evaluation process. These investigations were commissioned by **SuperLife Chief Actuary Jes B. Zane** to address several strategic social, financial and growth objectives for SuperLife’s long-term life insurance products. Included below is a comprehensive review of the initial data exploration, our health program design process, assumptions setting procedure, pricing-model construction methodology and forecasted economic benefits until 2044. To assess and support the long-term financial viability and profitability of the health program, sensitivity analyses and risk evaluations were also conducted. In recommending implementation of the health plan, there are further discussions of other considerations such as using gender-based pricing and devised marketing plans across Lumaria.
 
 ## Problem Statement
+SuperLife, a prominent life insurance carrier in the country of Lumaria, is exploring the development of a health incentive program to complement its long-term life insurance products. Through the health program Superlife seeks to incentivize healthy lifestyle behaviours and thereby decrease policyholder mortality rates, and boost sales volumes via enhanced marketability and industry competitivenes to ultimately yield economic benefits for the company. Plus Abvisory has been engaged as an external consultancy to propose an innovative solution.
 
 ## Project Timeline
-
+The chart below depicts the workflow progression of Plus Advisory's consultants in developing the solution.
+![Timeline](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011854/4f376159-4a08-4b6e-88d1-463edb61f62c)
 ## EDA
 
 ## Assumptions
