@@ -19,6 +19,7 @@ This showcase presents Plus Advisory’s proposed ‘wellness plan’ with detai
 
 ## Project Timeline
 The chart below depicts the workflow progression of Plus Advisory's consultants in developing the solution.
+> Project Timeline
 ![Timeline (1)](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011854/4132fb2e-3e7f-4265-85b9-f3149fec1b2d)
 
 ## EDA
