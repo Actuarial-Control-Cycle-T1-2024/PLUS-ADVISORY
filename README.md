@@ -18,6 +18,9 @@ More information on GitHub Pages can be found [here](https://pages.github.com/)
 ## Risk Management
 Significant quantitative and qualitative risks that may arise from the implementation of the health incentive program for SuperLife were identified and assessed. For each risk, ratings of the magnitude of impact and the possibility of occurrence are provided in Figure 4. to the right, alongside relevant mitigation strategies deduced to address these risks, outlined in the table below.
 
+> Risks and Mitigation Strategies
+
 ![Risk Mitigation Table](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/165151626/da702bff-bef0-4948-8343-3d48b846892a)
 
-
+### Sensitivity Analysis
+Sensitivity analysis was conducted to assess the materiality of the financial impacts from favourable and unfavourable scenarios based on our key assumptions
