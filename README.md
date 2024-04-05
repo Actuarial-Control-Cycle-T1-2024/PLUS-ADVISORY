@@ -3,13 +3,6 @@
 _"Insert Quote" - Benjamin Franklin_
 
 ---
-
-### Congrats on completing the [2024 SOA Research Challenge](https://www.soa.org/research/opportunities/2024-student-research-case-study-challenge/)!
-
->Now it's time to build your own website to showcase your work.  
->To create a website on GitHub Pages to showcase your work is very easy.
-
-This is written in markdown language. 
 >
 * Click [link](https://classroom.github.com/a/biNKOeX_) to accept your group assignment.
 
