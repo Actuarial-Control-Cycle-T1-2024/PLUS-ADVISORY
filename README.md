@@ -49,8 +49,8 @@ Lapse rates of each policy year durations were calculated using the following fo
 3. Repeated until Policy Year 19
 
 >> Lapse Rate Trend for T20
-
-
+<img width="550" alt="Screenshot 2024-04-06 at 11 40 12 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/165151626/6add8821-581f-4a77-a464-7439e62e4bca">
+*Values are recorded in this table*
 
 
 > Inflation Rate
