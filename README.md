@@ -26,16 +26,16 @@ The chart below depicts the workflow progression of Plus Advisory's consultants 
 ## EDA
 
 ## Assumptions
-> Expenses
+### Expenses
 
 ![Expenses](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011854/aaf64308-2d2e-45f6-b5bd-6e55e23445fe)
 
 
-> Earnings on Investment Rate and Net Investment Income Allocation
+### Earnings on Investment Rate and Net Investment Income Allocation
 
 ![Investment Allocation](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011854/a08a7b36-6e93-44eb-9b47-9347a5ef5208)
 
-> Lapse Rate
+### Lapse Rate
 * Assume that only T20 policies have lapses and SPWL does not because policyholders aren't likely to lapse after paying the single premium at the start of the policy.
 * All future lapse rates are consistent with the historical trend
 
@@ -48,22 +48,24 @@ Lapse rates of each policy year durations were calculated using the following fo
 2. Calculated number of in force policies e.g. how many not dead or lapsed in 2001 when policy issued in 2001, how many not dead or lapsed in 2002 when policy issued in 2002.... which summed to ALL active
 3. Repeated until Policy Year 19
 
->> Lapse Rate Trend for T20
+> Lapse Rate Trend for T20
 <img width="550" alt="Screenshot 2024-04-06 at 11 40 12 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/165151626/6add8821-581f-4a77-a464-7439e62e4bca">
-*Values are recorded in this table*
+
+**Values are recorded in this [lapse rate table](LapseRate.png)*
 
 
-> Inflation Rate
 
-> Discount Rate
+### Inflation Rate
 
-> Mortality Rate
+### Discount Rate
 
-> New Business Volume
+### Mortality Rate
+
+### New Business Volume
 
 ![New Business Volume](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011854/5add1704-f32e-4a5c-a7f9-d83778a9ee86)
 
-> New Business Demographics
+### New Business Demographics
 
 ![SPWL Demo](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011854/ad598bd3-4a66-4635-b996-a6bea1fa31b0)
 ![T20 Demo](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011854/98825cd0-c0f2-4670-a221-287adf794ac5)
