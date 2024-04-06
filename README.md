@@ -21,7 +21,6 @@ This showcase presents Plus Advisory’s proposed ‘wellness plan’ with detai
 The chart below depicts the workflow progression of Plus Advisory's consultants in developing the solution.
 > Project Timeline
 
-![Pie](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011854/14adb4e5-7062-4395-aa14-c3e1469f566a)
 
 ## EDA
 
@@ -32,7 +31,7 @@ The chart below depicts the workflow progression of Plus Advisory's consultants 
 
 ### Earnings on Investment Rate and Net Investment Income Allocation
 
-![Investment Allocation](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011854/a08a7b36-6e93-44eb-9b47-9347a5ef5208)
+![Pie](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011854/14adb4e5-7062-4395-aa14-c3e1469f566a)
 
 ### Lapse Rate
 * Assume that only T20 policies have lapses and SPWL does not because policyholders aren't likely to lapse after paying the single premium at the start of the policy.
