@@ -27,8 +27,16 @@ The chart below depicts the workflow progression of Plus Advisory's consultants 
 
 ## Assumptions
 ### Expenses
+* Total expenses include operating, reinsurance, taxation and health program expenses. 
+* Operating expenses consist of agent commissions, salary payments, office equipment and supplies, claims settlement costs, rent and advertising fees.
+* All expenses except health program expenses are calculated as the simple historical averages, as a percentage of GWP, on an aggregate basis.
+* Health program expenses are expressed as dollar values, taking moderate estimates and adjusted on a per-person basis where relevant.
 
 ![Expenses](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011854/aaf64308-2d2e-45f6-b5bd-6e55e23445fe)
+
+<ins>Sources<ins>
+[^1]: ACLI (2023) LIFE INSURERS FACT BOOK, Life insurers fact book. Available at: https://www.acli.com/about-the-industry/life-insurers-fact-book (Accessed: 8 March 2024)
+[^2]: NAIC (2023) Insurance industry snapshots and analysis reports, NAIC. Available at: https://content.naic.org/cipr-topics/insurance-industry-snapshots-and-analysis-reports (Accessed: 12 March 2024)
 
 ### Earnings on Investment Rate and Net Investment Income Allocation
 
