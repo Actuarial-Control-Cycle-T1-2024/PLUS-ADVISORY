@@ -30,7 +30,6 @@ The chart below depicts the workflow progression of Plus Advisory's consultants 
 
 ![Expenses](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011854/aaf64308-2d2e-45f6-b5bd-6e55e23445fe)
 
-
 ### Earnings on Investment Rate and Net Investment Income Allocation
 
 ![Investment Allocation](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011854/a08a7b36-6e93-44eb-9b47-9347a5ef5208)
@@ -54,8 +53,10 @@ Lapse rates of each policy year durations were calculated using the following fo
 **Values are recorded in this [lapse rate table](LapseRate.png)*
 
 <ins>Final Lapse Rates Used<ins>
+
 The calculated lapse rates above were then bucketed as follows:
 
+<img width="320" alt="Screenshot 2024-04-06 at 11 40 34 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/165151626/9a0d8aa3-a917-4b83-93ae-f64070d9a94d">
 
 ### Inflation Rate
 
