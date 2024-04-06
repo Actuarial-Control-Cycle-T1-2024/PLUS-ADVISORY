@@ -35,6 +35,11 @@ The chart below depicts the workflow progression of Plus Advisory's consultants 
 ![Investment Allocation](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011854/a08a7b36-6e93-44eb-9b47-9347a5ef5208)
 
 > Lapse Rate
+* Assume that only T20 policies have lapses and SPWL does not because policyholders aren't likely to lapse after paying the single premium at the start of the policy.
+* All future lapse rates are consistent with the historical trend
+
+Lapse rates of each policy year durations were calculated using the following formula:
+
 
 > Inflation Rate
 
