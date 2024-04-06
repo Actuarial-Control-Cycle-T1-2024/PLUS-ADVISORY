@@ -30,7 +30,7 @@ The chart below depicts the workflow progression of Plus Advisory's consultants 
 
 ![Expenses](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011854/aaf64308-2d2e-45f6-b5bd-6e55e23445fe)
 
-> Earnings on Investment and Investment Allocation
+> Earnings on Investment Rate and Net Investment Income Allocation
 
 ![Investment Allocation](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011854/a08a7b36-6e93-44eb-9b47-9347a5ef5208)
 
@@ -41,8 +41,6 @@ The chart below depicts the workflow progression of Plus Advisory's consultants 
 > Discount Rate
 
 > Mortality Rate
-
-> New Business Volume
 
 > New Business Volume
 
