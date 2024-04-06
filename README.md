@@ -34,7 +34,9 @@ The chart below depicts the workflow progression of Plus Advisory's consultants 
 
 ![Investment Allocation](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011854/a08a7b36-6e93-44eb-9b47-9347a5ef5208)
 
+> New Business Volume
 
+> New Business Demographics
 ## Risk Management
 Significant quantitative and qualitative risks that may arise from the implementation of the health incentive program for SuperLife were identified and assessed. For each risk, ratings of the magnitude of impact and the possibility of occurrence are provided in this [risk matrix](Likelihood.png), alongside relevant mitigation strategies deduced to address these risks, outlined in the table below.
 
