@@ -37,7 +37,8 @@ The chart below depicts the workflow progression of Plus Advisory's consultants 
 <ins>Sources<ins>
 
 US National Association of Insurance Commissioners (NAIC)[^1]
-American Council of LIfe Insurers[^2]
+
+American Council of Life Insurers[^2]
 [^1]: ACLI (2023) LIFE INSURERS FACT BOOK, Life insurers fact book. Available at: https://www.acli.com/about-the-industry/life-insurers-fact-book (Accessed: 8 March 2024)
 [^2]: NAIC (2023) Insurance industry snapshots and analysis reports, NAIC. Available at: https://content.naic.org/cipr-topics/insurance-industry-snapshots-and-analysis-reports (Accessed: 12 March 2024)
 
