@@ -42,6 +42,9 @@ The chart below depicts the workflow progression of Plus Advisory's consultants 
 
 Lapse rates of each policy year durations were calculated using the following formula:
 
+<img width="363" alt="Screenshot 2024-04-06 at 10 10 47 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/165151626/8d394cfa-6ba8-4f20-8e9c-962feb6e9888">
+
+
 
 > Inflation Rate
 
