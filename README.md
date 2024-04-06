@@ -43,7 +43,7 @@ American Council of Life Insurers[^2]
 [^2]: NAIC (2023) Insurance industry snapshots and analysis reports, NAIC. Available at: https://content.naic.org/cipr-topics/insurance-industry-snapshots-and-analysis-reports (Accessed: 12 March 2024)
 
 ### Earnings on Investment Rate and Net Investment Income Allocation
-
+Net investment income asset class allocations are calculated as historical averages. 
 ![Pie](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011854/14adb4e5-7062-4395-aa14-c3e1469f566a)
 
 ### Lapse Rate
@@ -77,10 +77,12 @@ The calculated lapse rates above were then bucketed as follows:
 ### Mortality Rate
 
 ### New Business Volume
-
+* New business volume figures are forecasted as projections from a linear regression model fit on historical data, by product. The linear regression model was selected on the basis of a linear trend in new business volume for both products.
 ![New Business Volume](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011854/5add1704-f32e-4a5c-a7f9-d83778a9ee86)
 
 ### New Business Demographics
+* Model points are defined across gender, smoking status, age and face value dimensions and the composition of new business across model points is calculated as historical averages.
+* Averaging approach based on the stability of composition across past years as shown below.
 
 ![SPWL Demo](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011854/ad598bd3-4a66-4635-b996-a6bea1fa31b0)
 ![T20 Demo](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011854/98825cd0-c0f2-4670-a221-287adf794ac5)
