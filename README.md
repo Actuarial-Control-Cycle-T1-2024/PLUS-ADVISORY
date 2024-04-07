@@ -1,5 +1,6 @@
- 
----
+![5](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/165151626/81e19539-b938-475e-b894-50602061bfff)
+
+| Rachel Dai | Stella Guo | Oliver Yang | Jun Yei Zhang | Angela Zhou |
 
 ## Problem Statement
 SuperLife, a prominent life insurance carrier in the country of Lumaria, is exploring the development of a health incentive program to complement its long-term life insurance products. Through the health program, Superlife seeks to incentivize healthy lifestyle behaviours and thereby decrease policyholder mortality rates, and boost sales volumes via enhanced marketability and industry competitivenes to ultimately yield economic benefits for the company. Plus Advisory has been engaged as an external consultancy to propose an innovative solution.
@@ -135,6 +136,21 @@ The following datasets were used:
 
 <img width="720" alt="Data Limitations" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/165151626/7d7c0a85-1275-45f0-af2f-6c2c2565fbb2">
 
+## Product Design
+Leveraging the findings from our exploratory data analysis, Plus Advisory has designed a health program to target the specific health risks associated with smokers and non-smokers. This tailored approach enables us to more effectively improve mortality experience whilst simultaneously promoting inclusivity. On optional participation, our program is segmented into two distinct packages, with key specifications defined in the table below.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Pricing and Modelling
 Utilising the provided mortality experience plus the mortality table, our group projected the expected mortality of SuperLife’s insured base into the future - for program participants and non-participants. These mortality projections were then used to project the losses and premium profits earned by Superlife from program participants and non-participants, allowing us to calculate the present economic value of implementing the program. Additionally, through the same model, the mortality savings from implementing the program over the past 20 years were estimated by utilising the provided mortality table as a proxy and adjusting mortality according to program participation.
@@ -210,3 +226,6 @@ Sensitivity analysis was conducted to assess the materiality of the financial im
 > Sensitivity Testing - Scenarios, Impacts and Insights
 
 ![Sensitivity Analysis Table](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/165151626/5d36d746-417d-43d1-98c7-21b328d39f65)
+
+## Final Recommendation
+
