@@ -129,18 +129,29 @@ Several methods were considered during the process of setting future inflation r
 ![SPWL Demo](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011854/ad598bd3-4a66-4635-b996-a6bea1fa31b0)
 ![T20 Demo](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011854/98825cd0-c0f2-4670-a221-287adf794ac5)
 
-Pricing and Modelling
----
+## Data Limitations
+The following datasets were used:
+* Superlife Inforce Dataset
+* Lumaria Economic Data
+* Lumaria Mortality Table
+* Intervention Impact & Cost
+
+<img width="720" alt="Data Limitations" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/165151626/7d7c0a85-1275-45f0-af2f-6c2c2565fbb2">
+
+
+## Pricing and Modelling
 Utilising the provided mortality experience plus the mortality table, our group projected the expected mortality of SuperLife’s insured base into the future - for program participants and non-participants. These mortality projections were then used to project the losses and premium profits earned by Superlife from program participants and non-participants, allowing us to calculate the present economic value of implementing the program. Additionally, through the same model, the mortality savings from implementing the program over the past 20 years were estimated by utilising the provided mortality table as a proxy and adjusting mortality according to program participation.
 
-## Stochastic Mortality Modelling
+### Stochastic Mortality Modelling
 Upon comparing the mortality experience derived from the inforce dataset with the provided ultimate mortality table, we observed that the mortality experience  from ages 30-60 are very similar, whereas,  from ages 60+, the observed mortality rates are lower than expected. As a result of the higher variability in the crude mortality rates, particularly in the older ages due to scarcer data, we decided to smooth the mortality rates for more accurate and reliable modelling. Loess regression, a nonparametric method was selected because it is locally adaptive, allowing it to capture both local and global features of the data. Therefore, the smoothed mortality rates will incorporate information from adjacent ages, while following the overall trend and reducing sampling error. The optimal span (amount of smoothing) and degree of freedom was chosen based on the combination that minimised the test RMSE while ensuring that the train RMSE remained larger than test RSME to avoid overfitting. This resulted in a span of 0.45, which provides a balance in fitting the data, while smoothing over the noise and a degree of freedom of 2, as the quadratic polynomial curvature allowed the model to capture the non-linear increase in mortality of older ages. 
 > Comparison of Inforce Mortality with Given Mortality Table
+
 ![Mortality Rate Comparisons](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/120159796/8749383f-0003-408e-bf33-a27e82d488cf)
 
 
 Following this, the smoothed dataset was split based on gender and used to train their respective stochastic models. A variety of stochastic models were tested, such as the Lee-Carter (LC), Cairns-Blake-Dowd (CBD), Age-Period-Cohort (APC) and the M6 models. The models were evaluated based on their residual colour map plots and AIC values. From the residual plots below, in the stochastic models for males we observed similar cohort effects indicated by the diagonal trends and age effects represented by the horizontal patterns. Notably, the simpler LC and CBD models demonstrated a higher degree of overestimation, as indicated by the dark blue regions. 
 > Residual Plots of Stochastic Models
+
 ![Mortality Residuals](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/120159796/195855fa-64e1-4e74-adb7-b4b75acb38d5)
 
 The M6 model evidently has the lowest degree of over- and under- estimation, aligning with expectation, as it is an extension of the CBD model, which is particularly effective in modelling older ages. The M6 model incorporates an additional parameter to account for the cohort effect into the CBD Model, that is clearly present in the residuals, coupled with the lowest AIC. We selected the M6 model because it displayed the best goodness of fit without compromising on overall model parsimony. The same conclusion was reached for the stochastic models for females, as shown below, however instead of age patterns, they displayed a period effect (vertical patterns). Therefore, the M6 model was used to project the base mortality rates over a 50 year-horizon for both males and females. 
@@ -157,44 +168,37 @@ $$q_{x,Final} = q_{x,Base} * R_{Wellness} * L_{Smoker}$$
 
 The reduction factors were chosen as the midpoint of the given approximate impact of the intervention programs on mortality for a more conservative modelling approach. 
 
-## Mortality Savings
+### Mortality Savings
 The mortality savings for the wellness program were found by comparing the differences between the expected present value (EPV) of total historical death benefits and expenses paid if the program had existed 20 years ago, compared to the actual death experience. The expected death benefits under the wellness program were calculated using the 2010 mortality rates as a proxy for the 20-year historical mortality. Leading to the following adjusted historical mortality rate:	
 
 $$q_{x,adj} = q_{x,historical}*\prod_{i}\mu_{i}$$
 
 $\mu_{i}$ represents the mortality improvement factors unique to each wellness incentive. These adjusted historical mortality rates were then used to find the EPV of the programs’ historical expenses, which amounted to Č3.755 billion, and the mortality savings were found to be Č3.780 billion. By offsetting the savings and added expenses, the total historic mortality savings of the program were found to be Č25.3 million. The historical annual mortality savings for each product can be found below.
 >Total Cumulative Projected Profits per Year - With Program vs No Program
+
 ![Historical Mortality Savings](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/120159796/77403bd3-f9c8-49bf-a05c-b8e58d49b740)
 
 
-## Economic Value of the Program and Insurance Changes
+### Economic Value of the Program and Insurance Changes
 The economic value of our health program was evaluated by comparing the differences in the EPV of profits with and without the wellness program. The estimated premiums, expenses and reserves of both products were modelled using projected mortality and the assumptions that the demographics of new business are consistent with historical policyholder demographic proportions and volume of new business is the linear extrapolation of historical growth trends.
 
-The model was built around the ‘Actuarial Equivalence Principle’, which states that the EPV of future premiums must equal the EPV of future benefits and expenses. Within this framework, premiums were calculated to achieve an expected profit margin of 5% to ensure the sustainability of the products. Additionally, reserves were calculated through the ‘Net Premium Reserve’ method, whose formulae are outlined below, whereby reserves are equal to the expected prospective loss. 
+The model was built around the ‘Actuarial Equivalence Principle’, which states that the EPV of future premiums must equal the EPV of future benefits and expenses. Within this framework, premiums were calculated to achieve an expected profit margin of 5% to ensure the sustainability of the products. Additionally, reserves were calculated through the ‘Net Premium Reserve’ method, whose formulae are outlined below, whereby reserves are equal to the expected prospective loss.
+
 ![Screenshot 2024-04-08 003040](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/120159796/681c016f-756f-49bb-8b10-f0a1588f376a)
 
 
 By inferring these values, the expected profit forecasts from an individual policyholder of given characteristics for the T20 and SPWL products were calculated from 2024 to 2033. These figures were then aggregated according to the population projections and consequently, a comparison was made between the EPV of profits assuming the implementation of the wellness program versus assuming no changes. This results in the economic value difference of Č10,370,689.25 in favour of the wellness program. 
 The key driver of this profit difference was the SPWL policy, SuperLife’s more profitable product, which cross-subsidised the Č5.3m loss projected on the 20-year term policies. This cross-subsidy is valuable as it provides opportunities for SuperLife to gain a greater market share on the term-life product, providing greater exposure to turn these customers towards SuperLife's more profitable products and grow its brand presence.
 > Total Cumulative Projected Profits by Year - With Program vs. No Program
+
 ![433958583_392340550189918_3200590496252941095_n](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/120159796/ec33ce25-f49a-4bff-aeec-2d37df63b4d8)
 
 The consistently greater profit values recorded under the program compared to those without the program in the above chart reinforce the value added by the program, as the wellness program’s cumulative profit eclipses that of SuperLife’s current product structure each year over the observed 10 years. 
 
-## Pricing Considerations
+### Pricing Considerations
 When considering the pricing of the new policies under the wellness program, it is important to acknowledge the added expenses SuperLife will receive from the program, especially in tandem with the long-tailed nature of its business exposure. However, Superlife must also understand the importance of keeping premiums manageable to continue attracting new  business. 
 
 Thus, we propose to add a risk margin of 5% to future premiums charged after the implementation of the policy to mitigate their right-tailed risk whilst not pricing out a significant portion of their future customer base. This risk margin should be charged to all policyholders, however, those not in the program should be charged a higher margin to subsidise the extra costs incurred from financing the wellness program, effectively providing a discount to program members, and further promoting program growth. However, it is recommended that SuperLife maintains moderately similar policy premiums between program members and those who aren’t enrolled to optimise sales growth.
-
-
-## Data Limitations
-The following datasets were used:
-* Superlife Inforce Dataset
-* [data](Lumaria Economic Data.xlsx)
-* [data](Lumaria Mortality Table.xlsx)
-* [data](Intervention Impact & Cost.xlsx)
-
-<img width="720" alt="Data Limitations" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/165151626/7d7c0a85-1275-45f0-af2f-6c2c2565fbb2">
 
 ## Risk Management
 Significant quantitative and qualitative risks that may arise from the implementation of the health incentive program for SuperLife were identified and assessed. For each risk, ratings of the magnitude of impact and the possibility of occurrence are provided in this [risk matrix](Likelihood.png), alongside relevant mitigation strategies deduced to address these risks, outlined in the table below.
