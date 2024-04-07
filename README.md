@@ -136,7 +136,7 @@ The following datasets were used:
 * Superlife Inforce Dataset
 * [data](Lumaria Economic Data.xlsx)
 * [data](Lumaria Mortality Table.xlsx)
-* [data](Intervention Impacts & Cost.xlsx)
+* [data](Intervention Impact & Cost.xlsx)
 
 <img width="720" alt="Data Limitations" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/165151626/7d7c0a85-1275-45f0-af2f-6c2c2565fbb2">
 
