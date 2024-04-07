@@ -26,7 +26,7 @@ Through a holistic review of SuperLife’s policyholder data, we have identified
 
 
 #### <ins>Gender Distribution</ins>
-Analysis of the gender of deceased policyholders by regions, as shown in the graph below, illustrates all regions having significantly higher numbers of male policyholder deaths compared to females, especially for regions 1-3. Out of the total deceased policyholder count, males accounted for more than twice the number of females.
+Analysis of the gender of deceased policyholders by regions, as shown in the graph below, illustrates all regions having significantly higher numbers of male policyholder deaths compared to females, especially for regions 1-3. Out of the total deceased policyholder count, males accounted for more than twice the number of deaths than females.
 
 > Gender Distribution of Dead Policyholders per Region
 <img width="460" alt="Screen Shot 2024-04-05 at 10 53 17 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011691/ac2a709c-f6da-4487-97de-d69b41cb9f7c">
