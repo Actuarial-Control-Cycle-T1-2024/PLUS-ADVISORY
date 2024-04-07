@@ -134,7 +134,7 @@ The following datasets were used:
 * Lumaria Economic Data
 * Intervention Impact & Cost
 
-<img width="720" alt="Data Limitations" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/165151626/7d7c0a85-1275-45f0-af2f-6c2c2565fbb2">
+<img width="852" alt="datalim" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/165151626/bf8e565d-2dbf-44cb-be68-b86842fb49a2">
 
 ## Product Design
 Leveraging the findings from our exploratory data analysis, Plus Advisory has designed a health program to target the specific health risks associated with smokers and non-smokers. This tailored approach enables us to more effectively improve mortality experience whilst simultaneously promoting inclusivity. On optional participation, our program is segmented into two distinct packages, with key specifications defined in the table below.
