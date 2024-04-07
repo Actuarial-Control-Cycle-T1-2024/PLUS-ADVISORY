@@ -74,7 +74,7 @@ The calculated lapse rates above were then bucketed as follows:
 Several methods were considered during the process of setting future inflation rates including linear regression, moving average of 5 years and moving average of 10 years. It was finally decided that future inflation rate is forecasted as a 5-year moving average (3.935%), smoothing the fluctuations apparent in the historical data.
 
 ### Discount Rate
-5-year moving average projection was applied to the conservatively chosen maximum of the overnight, 1 year and 10 year historical risk free spot rates. This was due to the smoothing effect of the moving average and to allocate more weighting on the 10 year rates to reflect the long term nature of this wellness plan. See this [graph](DiscountRate.png) for a visualisation of this projection.
+5-year moving average projection was applied to the conservatively chosen maximum of the overnight, 1 year and 10 year historical risk free spot rates resulting in a constant discount rate of 3%. This was due to the smoothing effect of the moving average and to allocate more weighting on the 10 year rates to reflect the long term nature of this wellness plan. See this [graph](DiscountRate.png) for a visualisation of this projection.
 
 ### Mortality Rate
 
