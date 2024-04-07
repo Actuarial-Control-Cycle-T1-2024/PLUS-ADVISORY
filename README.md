@@ -132,8 +132,8 @@ Several methods were considered during the process of setting future inflation r
 ## Data Limitations
 The following datasets were used:
 * Superlife Inforce Dataset
-* Lumaria Economic Data
 * Lumaria Mortality Table
+* Lumaria Economic Data
 * Intervention Impact & Cost
 
 <img width="720" alt="Data Limitations" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/165151626/7d7c0a85-1275-45f0-af2f-6c2c2565fbb2">
