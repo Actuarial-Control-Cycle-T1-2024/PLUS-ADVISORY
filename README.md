@@ -121,8 +121,8 @@ A 5-year moving average projection was applied to the conservatively chosen maxi
 ![New Business Volume](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011854/5add1704-f32e-4a5c-a7f9-d83778a9ee86)
 
 ### New Business Demographics
-* Model points are defined across gender, smoking status, age and face value dimensions and the composition of new business across model points is calculated as historical averages.
-* Averaging approach based on the stability of composition across past years as shown below.
+* Model points are defined across gender, smoking status, age and face value dimensions and the composition of new business across model points are calculated as historical averages.
+* The stability of composition across past years, representing the basis of the averaging approach, is shown below:
 
 ![SPWL Demo](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011854/ad598bd3-4a66-4635-b996-a6bea1fa31b0)
 ![T20 Demo](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011854/98825cd0-c0f2-4670-a221-287adf794ac5)
