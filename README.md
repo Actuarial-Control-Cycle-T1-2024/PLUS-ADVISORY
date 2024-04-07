@@ -1,12 +1,8 @@
 
 ---
->
-* Click [link](https://classroom.github.com/a/biNKOeX_) to accept your group assignment.
-
 When you finish the task, please paste your link to the Excel [sheet](https://unsw-my.sharepoint.com/:x:/g/personal/z5096423_ad_unsw_edu_au/ETIxmQ6pESRHoHPt-PUleR4BuN0_ghByf7TsfSfgDaBhVg?rtime=GAd2OFNM3Eg) for Peer Feedback
 ---
 >Be creative! Feel free to link to embed your [data](2024-srcsc-superlife-inforce-dataset-part1.csv), [code](sample-data-clean.ipynb), [image](unsw.png) here
-
 
 ## Problem Statement
 SuperLife, a prominent life insurance carrier in the country of Lumaria, is exploring the development of a health incentive program to complement its long-term life insurance products. Through the health program, Superlife seeks to incentivize healthy lifestyle behaviours and thereby decrease policyholder mortality rates, and boost sales volumes via enhanced marketability and industry competitivenes to ultimately yield economic benefits for the company. Plus Advisory has been engaged as an external consultancy to propose an innovative solution.
@@ -136,7 +132,11 @@ Several methods were considered during the process of setting future inflation r
 ![T20 Demo](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011854/98825cd0-c0f2-4670-a221-287adf794ac5)
 
 ## Data Limitations
-The following Lumarian datasets were used:
+The following datasets were used:
+* Superlife Inforce Dataset
+* [data](Lumaria Economic Data.xlsx)
+* [data](Lumaria Mortality Table.xlsx)
+* [data](Intervention Impacts & Cost.xlsx)
 
 <img width="720" alt="Data Limitations" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/165151626/7d7c0a85-1275-45f0-af2f-6c2c2565fbb2">
 
