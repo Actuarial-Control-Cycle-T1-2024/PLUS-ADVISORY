@@ -1,6 +1,3 @@
-# PLUS ADVISORY
-
-_"Insert Quote" - Benjamin Franklin_
 
 ---
 >
