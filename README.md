@@ -142,9 +142,10 @@ Leveraging the findings from our exploratory data analysis, Plus Advisory has de
 > Health Program Packages Outline
 <img width="670" alt="Screenshot 2024-04-08 at 2 32 00 am" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/165151626/8b9708f5-52f9-4bfe-9e05-795e7277cb18">
 
-Included in both packages are annual health check-ups, weight management programs, and cancer prevention initiatives. However, Package 1 is further enhanced with sun safety awareness and incentives for preventive screenings to directly target neoplasms. Contrastingly, Package 2 incorporates smoking cessation programs and heart health screenings to address circulatory system diseases. Our pricing strategy of optional participation on both packages encourages participation through offering attractive incentives. Participants who opt into Plus Advisory’s program receive the benefit of lower life insurance premiums, making their decision to participate both financially sound and beneficial health-wise. A detailed breakdown of the policyholders’ options available for each product can be seen
 
+Included in both packages are annual health check-ups, weight management programs, and cancer prevention initiatives. However, Package 1 is further enhanced with sun safety awareness and incentives for preventive screenings to directly target neoplasms. Contrastingly, Package 2 incorporates smoking cessation programs and heart health screenings to address circulatory system diseases. Our pricing strategy of optional participation on both packages encourages participation through offering attractive incentives. Participants who opt into Plus Advisory’s program receive the benefit of lower life insurance premiums, making their decision to participate both financially sound and beneficial health-wise. The diagram below provides a detailed breakdown of the policyholders’ options available for each product.
 
+![Decision Tree Team Whiteboard in Green Blue Yellow Simple Colorful Style](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/165151626/e249e2e6-e188-4492-84db-6e44df1b200d)
 
 ### Program Specifications
 Bi-Annual Health Check-Ups: Policyholders have access to bi-yearly health screenings and consultations, designed to support early identification of various potential health risks.
