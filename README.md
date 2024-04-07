@@ -59,7 +59,8 @@ $$q_{x,adj} = q_{x,historical}*\prod_{i}\mu_{i}$$
 
 $\mu_{i}$ represents the mortality improvement factors unique to each wellness incentive. These adjusted historical mortality rates were then used to find the EPV of the programs’ historical expenses, which amounted to Č3.755 billion, and the mortality savings were found to be Č3.780 billion. By offsetting the savings and added expenses, the total historic mortality savings of the program were found to be Č25.3 million. The historical annual mortality savings for each product can be found below.
 >Total Cumulative Projected Profits per Year - With Program vs No Program
-![Mortality Savings](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/120159796/c0355dda-5a8c-47c6-b29f-a03c899a8342)
+![Historical Mortality Savings](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/120159796/230ab90f-d643-4727-99e5-47fade09f2ea)
+
 
 
 Economic Value of the Program and Insurance Changes
