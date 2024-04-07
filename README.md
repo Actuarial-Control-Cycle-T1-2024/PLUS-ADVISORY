@@ -92,7 +92,7 @@ Net investment income asset class allocations are calculated as historical avera
 
 Lapse rates of each policy year durations were calculated using the following formula:
 
-<img width="250" alt="Screenshot 2024-04-06 at 10 10 47 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/165151626/8d394cfa-6ba8-4f20-8e9c-962feb6e9888">
+<img width="290" alt="Screenshot 2024-04-06 at 10 10 47 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/165151626/8d394cfa-6ba8-4f20-8e9c-962feb6e9888">
 
 <ins>Method<ins>
 1. Created new column that calculated Years to Lapse (how long it took for each lapsed policyholder to lapse) and counted frequencies from 0 to 19
@@ -100,7 +100,7 @@ Lapse rates of each policy year durations were calculated using the following fo
 3. Repeated until Policy Year 19
 
 > Lapse Rate Trend for T20
-<img width="580" alt="Screenshot 2024-04-06 at 11 40 12 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/165151626/6add8821-581f-4a77-a464-7439e62e4bca">
+<img width="710" alt="Screenshot 2024-04-06 at 11 40 12 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/165151626/6add8821-581f-4a77-a464-7439e62e4bca">
 
 **Values are recorded in this [lapse rate table](LapseRate.png)*
 
@@ -108,7 +108,7 @@ Lapse rates of each policy year durations were calculated using the following fo
 
 The calculated lapse rates above were then bucketed as follows:
 
-<img width="320" alt="Screenshot 2024-04-06 at 11 40 34 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/165151626/9a0d8aa3-a917-4b83-93ae-f64070d9a94d">
+<img width="350" alt="Screenshot 2024-04-06 at 11 40 34 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/165151626/9a0d8aa3-a917-4b83-93ae-f64070d9a94d">
 
 ### Inflation Rate
 Several methods were considered during the process of setting future inflation rates including linear regression, moving average of 5 years and moving average of 10 years. It was finally decided that future inflation rate is forecasted as a 5-year moving average (3.935%), smoothing the fluctuations apparent in the historical data.
@@ -145,34 +145,23 @@ Leveraging the findings from our exploratory data analysis, Plus Advisory has de
 
 Included in both packages are annual health check-ups, weight management programs, and cancer prevention initiatives. However, Package 1 is further enhanced with sun safety awareness and incentives for preventive screenings to directly target neoplasms. Contrastingly, Package 2 incorporates smoking cessation programs and heart health screenings to address circulatory system diseases. Our pricing strategy of optional participation on both packages encourages participation through offering attractive incentives. Participants who opt into Plus Advisory’s program receive the benefit of lower life insurance premiums, making their decision to participate both financially sound and beneficial health-wise. The diagram below provides a detailed breakdown of the policyholders’ options available for each product.
 
-![Decision Tree Team Whiteboard in Green Blue Yellow Simple Colorful Style](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/165151626/e249e2e6-e188-4492-84db-6e44df1b200d)
+![Decision Tree Team Whiteboard in Green Blue Yellow Simple Colorful Style](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/165151626/bf6968af-4770-45e4-95fa-3c540b6111bc)
 
 ### Program Specifications
-Bi-Annual Health Check-Ups: Policyholders have access to bi-yearly health screenings and consultations, designed to support early identification of various potential health risks.
-Weight Management Programs: Up to 1 year of personalised diet and exercise plans designed to promote weight loss and improve metabolic rate. Using Lumarian Skyreach’s nature trails, policyholders will participate in hikes and outdoor fitness sessions amongst Skyreach’s diverse flora and fauna.
-Cancer Prevention Initiatives: All participants may receive 1 year of resources on early cancer prevention strategies, such as mammograms and cervical screening tests.
-Sun Safety Awareness: Non-smokers may receive 1 year of educational resources on sun safety measures to assist decision-making in minimising skin cancer risks. 
-Incentives for Preventive Screenings: Non-smokers can participate in yearly preventive health screenings to ensure early detection of various cancers.
-Smoking Cessation Programs: Smokers have up to 1 year of access to quitline services, professional guidance, smoking cessation groups and customised treatment strategies including behavioural therapy.
-Heart Health Screenings: Smokers can receive bi-yearly access to regular heart screenings including cholesterol level and blood pressure tests.
-
+* Bi-Annual Health Check-Ups: Policyholders have access to bi-yearly health screenings and consultations, designed to support early identification of various potential health risks.
+* Weight Management Programs: Up to 1 year of personalised diet and exercise plans designed to promote weight loss and improve metabolic rate. Using Lumarian Skyreach’s nature trails, policyholders will participate in hikes and outdoor fitness sessions amongst Skyreach’s diverse flora and fauna.
+* Cancer Prevention Initiatives: All participants may receive 1 year of resources on early cancer prevention strategies, such as mammograms and cervical screening tests.
+* Sun Safety Awareness: Non-smokers may receive 1 year of educational resources on sun safety measures to assist decision-making in minimising skin cancer risks. 
+* Incentives for Preventive Screenings: Non-smokers can participate in yearly preventive health screenings to ensure early detection of various cancers.
+* Smoking Cessation Programs: Smokers have up to 1 year of access to quitline services, professional guidance, smoking cessation groups and customised treatment strategies including behavioural therapy.
+* Heart Health Screenings: Smokers can receive bi-yearly access to regular heart screenings including cholesterol level and blood pressure tests.
 
 The inclusion of weight management programs, annual preventative screenings and sun safety awareness initiatives to reduce neoplasm incidence rates is supported by various World Health Organisation (WHO) publications. Key statistics include that 30% of neoplasm cancers are caused by obesity and tobacco use, over half of which is preventable through regular screenings and healthier lifestyles and that excessive sun exposure is linked to 95% of melanoma cases. (Cancer Australia, 2024)
 
-
 In addressing circulatory system diseases, our smoking cessation program is motivated by research conducted by the US National Institutes of Health (NIH), which states that smoking cessation by age 40 reduces the risk of heart diseases by 90% (Gallucci et al., 2020). Our health check-up and heart screening offerings align with recommendations from the Australian Government, which advises individuals aged 50 and above to undergo heart disease risk assessments and blood pressure checks at 2 year intervals while those under 50 may do so less frequently.
 
-
-
-
-
-
-
-
-
-
-
-
+### Program Requirements
+Participants of the health program are required to obtain and submit digital confirmation of attendance to ensure participation is accurately recorded, duly justified by the provision of premium discounts. Individuals attending health check-ups, cancer prevention and heart health screenings are required to visit certain private clinics affiliated with Plus Advisory. Participants claiming non-smoker incentives are also required to provide nicotine test results within the last 12 months to verify their non-smoking status. This is justified by allowing Plus Advisory to ensure tailored health plans and incentives are granted based on verified health statuses. Smokers will be required to undergo initial assessments to tailor the cessation program to their individual needs, supported by European Respiratory Journal which reports a 35-55% higher success rate in quitting smoking when behavioural cessation interventions are tailored at an individual level (Andritsou et al., 2016).
 
 ## Pricing and Modelling
 Utilising the provided mortality experience plus the mortality table, our group projected the expected mortality of SuperLife’s insured base into the future - for program participants and non-participants. These mortality projections were then used to project the losses and premium profits earned by Superlife from program participants and non-participants, allowing us to calculate the present economic value of implementing the program. Additionally, through the same model, the mortality savings from implementing the program over the past 20 years were estimated by utilising the provided mortality table as a proxy and adjusting mortality according to program participation.
