@@ -69,7 +69,7 @@ Upon examining the traction of different distribution channels across all Lumari
 ### Expenses
 * Total expenses include operating, reinsurance, taxation and health program expenses. 
 * Operating expenses consist of agent commissions, salary payments, office equipment and supplies, claims settlement costs, rent and advertising fees.
-* All expenses except health program expenses are calculated as the simple historical averages, as a percentage of GWP, on an aggregate basis.
+* All expenses except health program expenses are calculated as simple historical averages, as a percentage of GWP, on an aggregate basis.
 * Health program expenses are expressed as dollar values, taking moderate estimates and adjusted on a per-person basis where relevant.
 
 ![Expenses](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011854/aaf64308-2d2e-45f6-b5bd-6e55e23445fe)
