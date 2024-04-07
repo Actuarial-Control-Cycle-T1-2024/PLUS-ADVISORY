@@ -31,7 +31,7 @@ Analysis of the gender of deceased policyholders by regions, as shown in the gra
 > Gender Distribution of Dead Policyholders per Region
 <img width="460" alt="Screen Shot 2024-04-05 at 10 53 17 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011691/ac2a709c-f6da-4487-97de-d69b41cb9f7c">
 
-Analysis of the gender of policyholders based on product revealed a similar distribution of male and female policyholder deaths for both SPWL and T20 products but in proportion to the number of policyholders, more are dying under SPWL products. Our findings are illustrated in the graph below:
+Analysis of the gender of policyholders based on product revealed a similar distribution of male and female policyholder deaths for both SPWL and T20 products but in proportion to the number of policyholders, slightly more are dying under the SPWL product. Our findings are illustrated in the graph below:
 
 > Gender Distribution of Dead Policyholders by Policy Type
 <img width="634" alt="Screen Shot 2024-04-05 at 10 55 15 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011691/c753dd0c-8fec-4318-9ad7-a322656f80b2">
