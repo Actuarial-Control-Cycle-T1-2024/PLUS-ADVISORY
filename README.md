@@ -236,7 +236,7 @@ Sensitivity analysis was conducted to assess the materiality of the financial im
 
 > Sensitivity Testing - Scenarios, Impacts and Insights
 
-![Sensitivity Analysis Table](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/165151626/5d36d746-417d-43d1-98c7-21b328d39f65)
+<img width="780" alt="sens" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/165151626/e9940eea-6456-4a15-9cf9-6ed93a86a14d">
 
 ## Final Recommendation
 
