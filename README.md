@@ -139,6 +139,27 @@ The following datasets were used:
 ## Product Design
 Leveraging the findings from our exploratory data analysis, Plus Advisory has designed a health program to target the specific health risks associated with smokers and non-smokers. This tailored approach enables us to more effectively improve mortality experience whilst simultaneously promoting inclusivity. On optional participation, our program is segmented into two distinct packages, with key specifications defined in the table below.
 
+> Health Program Packages Outline
+<img width="670" alt="Screenshot 2024-04-08 at 2 32 00 am" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/165151626/8b9708f5-52f9-4bfe-9e05-795e7277cb18">
+
+Included in both packages are annual health check-ups, weight management programs, and cancer prevention initiatives. However, Package 1 is further enhanced with sun safety awareness and incentives for preventive screenings to directly target neoplasms. Contrastingly, Package 2 incorporates smoking cessation programs and heart health screenings to address circulatory system diseases. Our pricing strategy of optional participation on both packages encourages participation through offering attractive incentives. Participants who opt into Plus Advisory’s program receive the benefit of lower life insurance premiums, making their decision to participate both financially sound and beneficial health-wise. A detailed breakdown of the policyholders’ options available for each product can be seen
+
+
+
+### Program Specifications
+Bi-Annual Health Check-Ups: Policyholders have access to bi-yearly health screenings and consultations, designed to support early identification of various potential health risks.
+Weight Management Programs: Up to 1 year of personalised diet and exercise plans designed to promote weight loss and improve metabolic rate. Using Lumarian Skyreach’s nature trails, policyholders will participate in hikes and outdoor fitness sessions amongst Skyreach’s diverse flora and fauna.
+Cancer Prevention Initiatives: All participants may receive 1 year of resources on early cancer prevention strategies, such as mammograms and cervical screening tests.
+Sun Safety Awareness: Non-smokers may receive 1 year of educational resources on sun safety measures to assist decision-making in minimising skin cancer risks. 
+Incentives for Preventive Screenings: Non-smokers can participate in yearly preventive health screenings to ensure early detection of various cancers.
+Smoking Cessation Programs: Smokers have up to 1 year of access to quitline services, professional guidance, smoking cessation groups and customised treatment strategies including behavioural therapy.
+Heart Health Screenings: Smokers can receive bi-yearly access to regular heart screenings including cholesterol level and blood pressure tests.
+
+
+The inclusion of weight management programs, annual preventative screenings and sun safety awareness initiatives to reduce neoplasm incidence rates is supported by various World Health Organisation (WHO) publications. Key statistics include that 30% of neoplasm cancers are caused by obesity and tobacco use, over half of which is preventable through regular screenings and healthier lifestyles and that excessive sun exposure is linked to 95% of melanoma cases. (Cancer Australia, 2024)
+
+
+In addressing circulatory system diseases, our smoking cessation program is motivated by research conducted by the US National Institutes of Health (NIH), which states that smoking cessation by age 40 reduces the risk of heart diseases by 90% (Gallucci et al., 2020). Our health check-up and heart screening offerings align with recommendations from the Australian Government, which advises individuals aged 50 and above to undergo heart disease risk assessments and blood pressure checks at 2 year intervals while those under 50 may do so less frequently.
 
 
 
