@@ -21,3 +21,8 @@ When you finish the task, please paste your link to the Excel [sheet](https://un
 
 More information on GitHub Pages can be found [here](https://pages.github.com/)
 ![](Actuarial.gif)
+
+
+Pricing and Cost
+---
+Utilising the provided mortality experience plus the mortality table, our group projected the expected mortality of SuperLife’s insured base into the future - for program participants and non-participants. These mortality projections were then used to project the losses and premium profits earned by Superlife from program participants and non-participants, allowing us to calculate the present economic value of implementing the program. Additionally through the same model, the mortality savings from implementing the program over the past 20 years was estimated by utilising the provided mortality table as a proxy and adjusting mortality according to program participation.
