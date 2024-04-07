@@ -38,7 +38,7 @@ Analysis of the gender of policyholders based on product revealed a similar dist
 
 
 #### <ins>Underwriting Classes</ins>
-Additionally, by examining the distribution of underwriting classes among the Lumarian population, as indicated in the graph below, we have discovered that policyholders predominantly fall into the low-risk category (633,198) within the overall claims dataset, yet majority of those who died were categorised as moderate risk (16,187). 
+Additionally, by examining the distribution of underwriting classes of SuperLife policyholdes, as seen in the graph below, we have discovered that policyholders predominantly fall into the low-risk category (633,198) within the overall dataset, yet the majority of those who died were categorised as moderate risk (16,187). 
 
 > Underwriting Class Distribution of Lumarian Population
 <img width="664" alt="Screen Shot 2024-04-05 at 10 56 19 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011691/b1a10083-e184-439a-9853-d8bab6c6f8ec">
@@ -47,12 +47,12 @@ The subsequent table outlines our findings:
 
 <img width="570" alt="Screen Shot 2024-04-05 at 10 57 54 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011691/68c8cdce-99b5-409f-a628-5784ff150f63">
 
-A risk profile assessment on smokers’ underwriting classes, as seen in the graph below, highlighted a pronounced discrepancy: smokers only fall into moderate or high-risk underwriting classes indicating a skewed risk distribution, whereas non-smokers were distributed more evenly between very low to high-risk underwriting classes. Hence, smoking has been considered as a significant risk factor.
+A risk profile assessment on smokers’ underwriting classes, as depicted in the graph below, highlighted a pronounced discrepancy: smokers only fall into moderate or high-risk underwriting classes indicating a skewed risk distribution, whereas non-smokers were distributed more evenly between very low to high-risk underwriting classes. Hence, smoking has been considered as a significant risk factor.
 
 > Underwriting Class Distribution by Smoking Status
 <img width="921" alt="Screen Shot 2024-04-05 at 10 59 29 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011691/3ec6abfb-cf86-4ac9-b267-0addee483d2d">
 
-In addition, sub-group analysis of smoker status revealed circulatory system diseases as the foremost health issue among smokers, contrasting with neoplasms in non-smokers, as illustrated in the graph below:
+In addition, sub-group analysis of smoker status revealed circulatory system diseases to be the forefront health issue among smokers, contrasting with neoplasms in non-smokers, as illustrated in the graph below:
 
 > Cause of Deaths by Smoking Status
 <img width="895" alt="Screen Shot 2024-04-05 at 11 00 25 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011691/f4b71b35-9b20-491a-84fa-5ee24d0238fb">
