@@ -71,8 +71,10 @@ The calculated lapse rates above were then bucketed as follows:
 <img width="320" alt="Screenshot 2024-04-06 at 11 40 34 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/165151626/9a0d8aa3-a917-4b83-93ae-f64070d9a94d">
 
 ### Inflation Rate
+Several methods were considered during the process of setting future inflation rates including linear regression, moving average of 5 years and moving average of 10 years. It was finally decided that future inflation rate is forecasted as a 5-year moving average (3.935%), smoothing the fluctuations apparent in the historical data.
 
 ### Discount Rate
+5-year moving average projection applied to the conservatively chosen maximum of the overnight, 1 year and 10 year historical risk free spot rates. This was due to the smoothing effect of the moving average and to allocate more weighting on the 10 year rates to reflect the long term nature of this wellness plan.
 
 ### Mortality Rate
 
