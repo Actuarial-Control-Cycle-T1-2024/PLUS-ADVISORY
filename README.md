@@ -57,6 +57,19 @@ In addition, sub-group analysis of smoker status revealed circulatory system dis
 > Cause of Deaths by Smoking Status
 <img width="895" alt="Screen Shot 2024-04-05 at 11 00 25 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011691/f4b71b35-9b20-491a-84fa-5ee24d0238fb">
 
+## Program Overview
+### Objectives
+Our proposed health program aims to reduce the mortality rates across SuperLife’s policyholders by addressing critical health risks and encouraging active engagement in healthier lifestyle behaviours, ultimately to generate substantial economic benefits in the long-term through mortality savings. The wellness program is strategically designed to reward policyholder participation with attractive incentives such as premium discounts, creating synergy with Superlife’s life insurance products in the form of enhanced marketability and elevated sales volume. Through this unique value proposition, we strive to solidify SuperLife’s standing within the competitive landscape of the Lumarian life insurance industry.
+
+### Key Metrics
+The following 5 measures will be used to assess the success of our health incentive program:
+1. **Health Metrics** - Measure health improvements through CHV metrics, BMI and the number of claims, allowing sufficient time for lifestyle adjustments to occur.
+2. **Program Enrollment** - Track the frequency of new T20 and SPWL policyholders enrolling in the health program. Initial enrollment data will help us assess immediate engagement rates and make changes accordingly.
+3. **Participation/Attendance Rates** - Monitor the consistency of policyholder attendance in our recommended program events to assess the effectiveness and accessibility of the incentives and in turn, make strategic changes to optimise participation e.g. targeted promotions.
+4. **Program Feedback** - Survey health program participants on a regular basis about their experience and potential improvement suggestions.
+5. **Financial Indicators** - Calculate segmented loss ratios and net profit and conduct cost-benefit analysis to evaluate the program’s overall profitability and feasibility in the long term.
+   
+These key metrics will be documented <ins>biannually</ins> for the first 5 years after implementation and then reported <ins>biennially</ins> thereafter in the longer term to monitor the program's effectiveness in attaining its objectives.
 
 ## Assumptions
 ### Expenses
@@ -173,6 +186,9 @@ In addressing circulatory system diseases, our smoking cessation program is moti
 Participants of the health program are required to obtain and submit digital confirmation of attendance to ensure participation is accurately recorded, duly justified by the provision of premium discounts. Individuals attending health check-ups, cancer prevention and heart health screenings are required to visit certain private clinics affiliated with Plus Advisory. Participants claiming non-smoker incentives are also required to provide nicotine test results within the last 12 months to verify their non-smoking status. This is justified by allowing Plus Advisory to ensure tailored health plans and incentives are granted based on verified health statuses. Smokers will be required to undergo initial assessments to tailor the cessation program to their individual needs, supported by European Respiratory Journal which reports a 35-55% higher success rate in quitting smoking when behavioural cessation interventions are tailored at an individual level (Andritsou et al., 2016)[^4].
 
 [^4]: Andritsou, M. et al. (2016) Success rates are correlated mainly to completion of a smoking cessation program, European Respiratory Society. Available at: https://erj.ersjournals.com/content/48/suppl_60/PA4599 (Accessed: 8 March 2024).
+
+### Evaluation Timeframes
+For the evaluation time frames of the health program, we propose both short-term and long-term durations to comprehensively assess its effectiveness in reducing mortality rates. A period of 5 years is an appropriate interval for assessing initial policyholder engagement with the program. This duration aligns with standard healthcare program timelines, given that many of our health incentives are provided on an annual or bi-annual basis, allowing ample time to evaluate how the program contributes to enhancing policyholders’ health and lifestyle habits in the short-term. For longer-term analysis, a 20 year timeframe offers a more reliable perspective on our program performance, providing enough time to encounter and address issues such as potential health pandemics that can significantly affect mortality rates. Given that individual health tends to exhibit a steady decline from around age 30 which accelerates around 50, undertaking a 20-year evaluation would also offer adequate time to make adjustments based on evolving health needs and provide the best practices to ensure long-term sustainability of our health program.
 
 ## Pricing and Modelling
 Utilising the provided mortality experience and mortality table, our group projected the expected mortality of SuperLife’s insured base into the future - for program participants and non-participants. These mortality projections were then used to project the losses and premium profits earned by Superlife from program participants and non-participants, allowing us to calculate the present economic value of implementing the program. Additionally, through the same model, the mortality savings from implementing the program over the past 20 years were estimated by utilising the provided mortality table as a proxy and adjusting mortality according to program participation.
