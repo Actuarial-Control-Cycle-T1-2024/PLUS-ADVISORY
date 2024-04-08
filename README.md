@@ -182,6 +182,8 @@ Following this, the smoothed dataset was split based on gender and used to train
 
 The M6 model had the lowest degree of over- and under- estimation, aligning with expectation, as it is an extension of the CBD model, which is particularly effective in modelling older ages. The M6 model incorporates an additional parameter to account for the cohort effect into the CBD Model, that is clearly present in the residuals, coupled with the lowest AIC. We selected the M6 model because it displayed the best goodness-of-fit without compromising on overall model parsimony. The same conclusion was reached for the stochastic models for females, as shown below, however instead of age patterns, they displayed a period effect (vertical patterns). Therefore, the M6 model was used to project the base mortality rates over a 50 year-horizon for both males and females. 
 
+>AIC values of Stochastic Models
+
 AIC|Lee Carter|Cairns Blake Dowd|Age-Period-Cohort|M6
 ---|---|---|---|---
 Males|5286|5233|5287|5232
