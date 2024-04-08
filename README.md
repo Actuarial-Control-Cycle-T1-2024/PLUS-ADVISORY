@@ -58,13 +58,6 @@ In addition, sub-group analysis of smoker status revealed circulatory system dis
 <img width="895" alt="Screen Shot 2024-04-05 at 11 00 25 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011691/f4b71b35-9b20-491a-84fa-5ee24d0238fb">
 
 
-#### <ins>Marketing Distribution Channels</ins>
-Upon examining the traction of different distribution channels across all Lumarian regions, detailed in the left graph below, Plus Advisory’s marketing recommendation will primarily focus on agents and online platforms given their consistent popularity. Adopting a product-wise lens, as illustrated in the right graph below, we would advise the concentration of advertising budget and other resources on agents for SPWL given their predominance and even investment across all channels for T20.
-
-> Distribution Channels
-<img width="828" alt="Screen Shot 2024-04-05 at 11 01 57 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011691/b8a3e5cc-daa2-4ba3-8c5a-fcd57373ddf1">
-
-
 ## Assumptions
 ### Expenses
 * Total expenses include operating, reinsurance, taxation and health program expenses. 
@@ -182,7 +175,7 @@ Following this, the smoothed dataset was split based on gender and used to train
 
 The M6 model had the lowest degree of over- and under- estimation, aligning with expectation, as it is an extension of the CBD model, which is particularly effective in modelling older ages. The M6 model incorporates an additional parameter to account for the cohort effect into the CBD Model, that is clearly present in the residuals, coupled with the lowest AIC. We selected the M6 model because it displayed the best goodness-of-fit without compromising on overall model parsimony. The same conclusion was reached for the stochastic models for females, as shown below, however instead of age patterns, they displayed a period effect (vertical patterns). Therefore, the M6 model was used to project the base mortality rates over a 50 year-horizon for both males and females. 
 
->AIC values of Stochastic Models
+>AIC Values of Stochastic Models
 
 AIC|Lee Carter|Cairns Blake Dowd|Age-Period-Cohort|M6
 ---|---|---|---|---
@@ -242,5 +235,16 @@ Sensitivity analysis was conducted to assess the materiality of the financial im
 
 <img width="780" alt="sens" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/165151626/e9940eea-6456-4a15-9cf9-6ed93a86a14d">
 
+## Other Considerations
+In reference to the European Union’s ban on gender-based discrimination in 2012, gender-neutral pricing models carry concerns including the potential risk of adverse selection where“67% of insurers experienced higher than expected male policyholders in their portfolio” a month post-ban (Chan, 2014). Furthermore, material differences in projected mortality rates between the sexes have been observed. To mitigate these risks, Plus Advisory has integrated gender as a key pricing determinant. While use of sex and gender dependent pricing may invoke moral concerns such as discrimination and gender inequality, particularly in the context of the  LGBTQ+ and intersex population, regulatory and best practice guidance is currently vague. (Embse, 2022) Our evaluation is further justified by potential implicit price variation through other variables with non-zero correlation to sex, supported by the 3-fold difference in prices for the average male and female observed 5 years after implementation of gender-neutral pricing in the UK. 
+
+Upon examining the traction of different distribution channels across all Lumarian regions, detailed in the left graph below, Plus Advisory’s marketing recommendation will primarily focus on agents and online platforms given their consistent popularity. Adopting a product-wise lens, as illustrated in the right graph below, we would advise the concentration of advertising budget and other resources on agents for SPWL given their predominance and even investment across all channels for T20.
+
+> Distribution Channels
+<img width="828" alt="Screen Shot 2024-04-05 at 11 01 57 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011691/b8a3e5cc-daa2-4ba3-8c5a-fcd57373ddf1">
+
 ## Final Recommendation
+While acknowledging key limitations in our solution design, including the inability to account for health program participation mid-policy term, lack of reliability in pricing where assumptions deviate from recommended ranges, limited insight into scenarios where multiple assumptions develop adversely and constraints in the granularity of analysis due to data limitations, upon careful evaluation of the long-term viability and economic efficiency of our health program’s design and pricing strategies, Plus Advisory recommends that SuperLife integrates our health incentives with its long-term life insurance products. Given that our sensitivity analysis supports keeping costs low, we advise SuperLife to form partnerships with reputable private health clinics to reduce our health program costs through referral fees and increased goodwill. It is further advised that SuperLife carefully monitors aforementioned key metrics over both short-term and long-term timeframes, identified and emerging risks associated with our health incentives and model assumptions and features, making appropriate updates and refinements to maintain the  health program’s long-term effectiveness. 
+
+
 
