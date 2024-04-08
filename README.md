@@ -1,6 +1,7 @@
 ![5](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/165151626/81e19539-b938-475e-b894-50602061bfff)
 
-| Rachel Dai | Stella Guo | Oliver Yang | Jun Yei Zhang | Angela Zhou |
+**Team Members: Rachel Dai, Stella Guo, Oliver Yang, Jun Yei Zhang, Angela Zhou**
+
 
 ## Problem Statement
 SuperLife, a prominent life insurance carrier in the country of Lumaria, is exploring the development of a health incentive program to complement its long-term life insurance products. Through the health program, Superlife seeks to incentivize healthy lifestyle behaviours and thereby decrease policyholder mortality rates, and boost sales volumes via enhanced marketability and industry competitivenes to ultimately yield economic benefits for the company. Plus Advisory has been engaged as an external consultancy to propose an innovative solution.
