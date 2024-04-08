@@ -117,7 +117,7 @@ A 5-year moving average projection was applied to the conservatively chosen maxi
 ### New Business Volume
 * New business volume figures are forecasted as projections from a linear regression model fit on historical data, by product. The linear regression model was selected on the basis of a linear trend in new business volume for both products.
 
-> New Business Projections
+> New Business Volume Projections
 
 ![New Business Volume](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011854/5add1704-f32e-4a5c-a7f9-d83778a9ee86)
 
