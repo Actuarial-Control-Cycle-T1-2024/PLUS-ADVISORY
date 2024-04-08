@@ -65,6 +65,8 @@ In addition, sub-group analysis of smoker status revealed circulatory system dis
 * All expenses except health program expenses are calculated as simple historical averages, as a percentage of GWP, on an aggregate basis.
 * Health program expenses are expressed as dollar values, taking moderate estimates and adjusted on a per-person basis where relevant.
 
+> Expense Calculations
+
 ![Expenses](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011854/aaf64308-2d2e-45f6-b5bd-6e55e23445fe)
 
 <ins>Sources<ins>
@@ -77,6 +79,9 @@ American Council of Life Insurers[^2]
 
 ### Earnings on Investment Rate and Net Investment Income Allocation
 Net investment income asset class allocations are calculated as historical averages. 
+
+> Average Net Investment Income Asset Class Allocations
+
 ![Pie](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011854/14adb4e5-7062-4395-aa14-c3e1469f566a)
 
 ### Lapse Rate
@@ -111,11 +116,16 @@ A 5-year moving average projection was applied to the conservatively chosen maxi
 
 ### New Business Volume
 * New business volume figures are forecasted as projections from a linear regression model fit on historical data, by product. The linear regression model was selected on the basis of a linear trend in new business volume for both products.
+
+> New Business Projections
+
 ![New Business Volume](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011854/5add1704-f32e-4a5c-a7f9-d83778a9ee86)
 
 ### New Business Demographics
 * Model points are defined across gender, smoking status, age and face value dimensions and the composition of new business across model points are calculated as historical averages.
 * The stability of composition across past years, representing the basis of the averaging approach, is shown below:
+
+> New Business Historical Model Point Proportions 
 
 ![SPWL Demo](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011854/ad598bd3-4a66-4635-b996-a6bea1fa31b0)
 ![T20 Demo](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011854/98825cd0-c0f2-4670-a221-287adf794ac5)
