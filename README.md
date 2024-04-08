@@ -238,7 +238,7 @@ When considering the pricing of the new policies under the wellness program, it 
 Thus, we propose to add a risk margin of 5% to future premiums charged after the implementation of the policy to mitigate their right-tailed risk whilst not pricing out a significant portion of their future customer base. This risk margin should be charged to all policyholders, however, those not in the program should be charged a higher margin to subsidise the extra costs incurred from financing the wellness program, effectively providing a discount to program members, and further promoting program growth. However, it is recommended that SuperLife maintains moderately similar policy premiums between program members and those who aren’t enrolled to optimise sales growth.
 
 ## Risk Management
-Significant quantitative and qualitative risks that may arise from the implementation of the health incentive program for SuperLife were identified and assessed. For each risk, ratings of the magnitude of impact and the possibility of occurrence are provided in this [risk matrix](Likelihood.png), alongside relevant mitigation strategies deduced to address these risks, outlined in the table below.
+Significant quantitative and qualitative risks that may arise from the implementation of the health incentive program for SuperLife were identified and assessed. For each risk, ratings of the magnitude of impact and the possibility of occurrence are provided in this [risk matrix](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/blob/f35e6ff04573ddd31a5e4af1ac29750a8fe88731/Project%20Images/Likelihood.png), alongside relevant mitigation strategies deduced to address these risks, outlined in the table below.
 
 > Risks and Mitigation Strategies
 
