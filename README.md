@@ -100,7 +100,7 @@ Lapse rates of each policy year durations were calculated using the following fo
 > Lapse Rate Trend for T20
 <img width="710" alt="Screenshot 2024-04-06 at 11 40 12 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/165151626/6add8821-581f-4a77-a464-7439e62e4bca">
 
-**Values are recorded in this [lapse rate table](LapseRate.png)*
+**Values are recorded in this [lapse rate table](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/blob/29f9abac2ca4b228ab201b2096d0bb5502e285a2/Project%20Images/LapseRate.png)*
 
 <ins>Final Lapse Rates Used<ins>
 
