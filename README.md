@@ -127,6 +127,8 @@ The following datasets were used:
 * Lumaria Economic Data
 * Intervention Impact & Cost Table
 
+>Data Limitations Table
+
 <img width="852" alt="datalim" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/165151626/bf8e565d-2dbf-44cb-be68-b86842fb49a2">
 
 ## Product Design
