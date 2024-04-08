@@ -1,4 +1,4 @@
-![4001 Group Logo](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/165151626/9441998d-a1cc-42ea-8410-4c908f121a0c)
+![4001 Group Logo](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/165151626/e0a54d54-bbb0-40e6-a79e-beade0b2f038)
 
 **Team Members: Rachel Dai, Stella Guo, Oliver Yang, Jun Yei Zhang, Angela Zhou**
 
