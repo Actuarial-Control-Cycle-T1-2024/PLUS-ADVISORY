@@ -112,7 +112,7 @@ The calculated lapse rates above were then bucketed as follows:
 Several methods were considered during the process of setting future inflation rates including linear regression, moving average of 5 years and moving average of 10 years. It was finally decided that the future inflation rate would be forecasted as the 5-year moving average (3.935%) as it provided appropriate smoothing to the fluctuations apparent in the historical data.
 
 ### Discount Rate
-A 5-year moving average projection was applied to the conservatively chosen maximum of the overnight, 1 year and 10 year historical risk free spot rates resulting in a constant discount rate of 3%. This was due to the smoothing effect of the moving average and to allocate more weighting on the 10 year rates to reflect the long term nature of this wellness plan. See this [graph](DiscountRate.png) for a visualisation of this projection.
+A 5-year moving average projection was applied to the conservatively chosen maximum of the overnight, 1 year and 10 year historical risk free spot rates resulting in a constant discount rate of 3%. This was due to the smoothing effect of the moving average and to allocate more weighting on the 10 year rates to reflect the long term nature of this wellness plan. See this [graph](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/blob/86831fdb3c7dab8967aa306369064e8ed503c210/Project%20Images/DiscountRate.png) for a visualisation of this projection.
 
 ### New Business Volume
 * New business volume figures are forecasted as projections from a linear regression model fit on historical data, by product. The linear regression model was selected on the basis of a linear trend in new business volume for both products.
