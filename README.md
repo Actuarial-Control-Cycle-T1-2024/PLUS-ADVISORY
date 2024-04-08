@@ -211,14 +211,13 @@ Females|3713|3569|3705|3621
 To obtain the smoking risk loading factors, we modelled death counts using a Generalised Linear Model (GLM) with smoking status as the predictor. A quasi-poisson distribution with a log link function was utilised to account for the overdispersion of the data. The data was not split based on gender due to the scarcity of deaths of female smokers in the inforce dataset. The GLM model which was trained using k-cross validation with 10 folds, yielded a coefficient of 1.58 for smokers. Since the coefficient of the GLM represented the log odds, this corresponded to smokers being 4.85x more likely to die compared to non-smokers. From the data, we found that the majority of the deaths for smokers occur around the age range of 50-70, thus we opted to apply the risk factors incrementally, beginning with a baseline risk factor of 1.30 at age 26, then increasing it by 0.05 at every subsequent age. This gradual increase continues until age 97, with a factor of 4.85, which is maintained at this level until age 120. This approach reflects the cumulative health impacts of smoking, especially at older ages.
 
 The final mortality rates applied in our analysis incorporate the base mortality projections derived from the M6 model, adjusted for smoking risk loading for smokers and reduction factors for individuals participating in the respective wellness plans:
-$$q_{x,Final} = q_{x,Base} * R_{Wellness} * L_{Smoker}$$
+![Equation 1](https://github.com/Actuarial-Control-Cycle-T1-2024/PLUS-ADVISORY/assets/166011854/a425428b-e3b1-489d-baaf-f75aa9965507)
 
 The reduction factors were chosen as the midpoint of the given approximate impact of the intervention programs on mortality for a more conservative modelling approach. 
 
 ### Mortality Savings
 The mortality savings for the wellness program were found by comparing the differences between the expected present value (EPV) of total historical death benefits and expenses paid if the program had existed 20 years ago, compared to the actual death experience. The expected death benefits under the wellness program were calculated using the 2010 mortality rates as a proxy for the 20-year historical mortality. Leading to the following adjusted historical mortality rate:	
-
-$$q_{x,adj} = q_{x,historical}*\prod_{i}\mu_{i}$$
+![Equation 2](https://github.com/Actuarial-Control-Cycle-T1-2024/PLUS-ADVISORY/assets/166011854/c7bc6160-e541-4e27-bd22-2173c9295af0)
 
 $\mu_{i}$ represents the mortality improvement factors unique to each wellness incentive. These adjusted historical mortality rates were then used to find the EPV of the programs’ historical expenses, which amounted to Č3.755 billion, and the mortality savings were found to be Č3.780 billion. By offsetting the savings and added expenses, the total historic mortality savings of the program were found to be Č25.3 million. The historical annual mortality savings for each product can be found below.
 >Total Cumulative Projected Profits per Year - With Program vs No Program
